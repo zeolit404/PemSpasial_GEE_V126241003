@@ -2,7 +2,7 @@
 
 ## Informasi Mahasiswa
 - **Nama**: M. Arief Abdillah
-- **NIM**: [Isi NIM Kamu]
+- **NIM**: v12641003
 - **Mata Kuliah**: Praktek Pemrograman Spasial (24V12632903)
 - **Pengampu**: Tim Dosen (Agus Aris, Prof. Syamsu Arif, Ibu Dini, Zylsal)
 - **Tahun**: 2026
