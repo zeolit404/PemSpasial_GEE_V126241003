@@ -1,4 +1,4 @@
-# Judul Proyek: Sistem Analisis Geospasial Sanggala Utara
+# Sistem Analisis Geospasial Sanggala Utara
 
 ## Informasi Mahasiswa
 - **Nama**: M. Arief Abdillah
